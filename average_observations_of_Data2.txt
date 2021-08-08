@@ -1,0 +1,120 @@
+dirr: no_of_points_2100_sigma_3
+time: 771.2866666666666
+tree_length: 2611452.94
+
+dirr: no_of_points_3100_sigma_5
+time: 2090.693333333333
+tree_length: 3851257.966666667
+
+dirr: no_of_points_3600_sigma_5
+time: 2244.08
+tree_length: 4469332.996666667
+
+dirr: no_of_points_5600_sigma_7
+time: 2839.1866666666665
+tree_length: 6955170.3533333335
+
+dirr: no_of_points_600_sigma_3
+time: 237.88333333333333
+tree_length: 755141.28
+
+dirr: no_of_points_3100_sigma_3
+time: 2096.23
+tree_length: 3851239.84
+
+dirr: no_of_points_1600_sigma_5
+time: 603.6166666666667
+tree_length: 1994696.8566666667
+
+dirr: no_of_points_600_sigma_1
+time: 237.32666666666665
+tree_length: 755294.1766666666
+
+dirr: no_of_points_1100_sigma_5
+time: 425.3833333333333
+tree_length: 1372972.1866666668
+
+dirr: no_of_points_5100_sigma_0
+time: 2690.35
+tree_length: 6333024.266666667
+
+dirr: no_of_points_600_sigma_7
+time: 238.16333333333333
+tree_length: 755445.7466666667
+
+dirr: no_of_points_3600_sigma_0
+time: 2254.67
+tree_length: 4472265.133333334
+
+dirr: no_of_points_3600_sigma_3
+time: 2255.31
+tree_length: 4470970.856666666
+
+dirr: no_of_points_3600_sigma_1
+time: 2254.3
+tree_length: 4472964.23
+
+dirr: no_of_points_2100_sigma_7
+time: 776.53
+tree_length: 2610424.046666667
+
+dirr: no_of_points_2100_sigma_1
+time: 776.7
+tree_length: 2611129.98
+
+dirr: no_of_points_3600_sigma_7
+time: 2253.8033333333333
+tree_length: 4469342.893333334
+
+dirr: no_of_points_5600_sigma_0
+time: 2846.4366666666665
+tree_length: 6953293.796666667
+
+dirr: no_of_points_100_sigma_1
+time: 40.553333333333335
+tree_length: 141282.64
+
+dirr: no_of_points_1100_sigma_0
+time: 426.89
+tree_length: 1373811.81
+
+dirr: no_of_points_5100_sigma_3
+time: 2689.93
+tree_length: 6333463.826666667
+
+dirr: no_of_points_2100_sigma_0
+time: 775.7366666666667
+tree_length: 2611249.6633333336
+
+dirr: no_of_points_100_sigma_0
+time: 40.413333333333334
+tree_length: 141239.61333333334
+
+dirr: no_of_points_4600_sigma_1
+time: 2549.83
+tree_length: 5711178.066666666
+
+dirr: no_of_points_1600_sigma_7
+time: 604.71
+tree_length: 1994962.3966666667
+
+dirr: no_of_points_3100_sigma_1
+time: 2098.31
+tree_length: 3850956.0
+
+dirr: no_of_points_600_sigma_5
+time: 238.86
+tree_length: 755753.4833333333
+
+dirr: no_of_points_2100_sigma_5
+time: 791.8533333333334
+tree_length: 2610510.35
+
+dirr: no_of_points_1100_sigma_3
+time: 425.06333333333333
+tree_length: 1373551.85
+
+dirr: no_of_points_4600_sigma_7
+time: 2550.883333333333
+tree_length: 5711081.183333334
+

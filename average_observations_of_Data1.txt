@@ -1,0 +1,120 @@
+dirr:  no_of_points_4100_sigma_7
+time:  2402.9966666666664
+tree_length:  5089805.54
+
+dirr:  no_of_points_4100_sigma_0
+time:  2400.9133333333334
+tree_length:  5091286.286666667
+
+dirr:  no_of_points_5100_sigma_1
+time: 2678.82
+tree_length: 6330828.69
+
+dirr: no_of_points_1100_sigma_7
+time: 424.1666666666667
+tree_length: 1373842.8366666667
+
+dirr: no_of_points_1600_sigma_1
+time: 603.8233333333334
+tree_length: 1994994.61
+
+dirr: no_of_points_1100_sigma_1
+time: 424.1333333333333
+tree_length: 1374084.8633333333
+
+dirr: no_of_points_2600_sigma_7
+time: 955.6233333333333
+tree_length: 3230204.0766666667
+
+dirr: no_of_points_4100_sigma_3
+time: 2391.6666666666665
+tree_length: 5091162.553333334
+
+dirr: no_of_points_1600_sigma_3
+time: 600.2133333333334
+tree_length: 1995326.6133333333
+
+dirr: no_of_points_4600_sigma_5
+time: 2538.536666666667
+tree_length: 5711298.3
+
+dirr: no_of_points_5600_sigma_1
+time: 2834.306666666667
+tree_length: 6954623.14
+
+dirr: no_of_points_100_sigma_5
+time: 40.55
+tree_length: 141290.26
+
+dirr: no_of_points_4100_sigma_5
+time: 2407.1266666666666
+tree_length: 5092547.843333334
+
+dirr: no_of_points_3100_sigma_7
+time: 2099.05
+tree_length: 3851284.26
+
+dirr: no_of_points_4600_sigma_0
+time: 2550.766666666667
+tree_length: 5710810.556666667
+
+dirr: no_of_points_5100_sigma_7
+time: 2692.24
+tree_length: 6333543.753333333
+
+dirr: no_of_points_2600_sigma_1
+time: 971.27
+tree_length: 3231577.9
+
+dirr: no_of_points_5600_sigma_5
+time: 2846.67
+tree_length: 6957019.036666667
+
+dirr: no_of_points_2600_sigma_5
+time: 954.8233333333334
+tree_length: 3230119.4766666666
+
+dirr: no_of_points_2600_sigma_3
+time: 956.2733333333333
+tree_length: 3231139.86
+
+dirr: no_of_points_4600_sigma_3
+time: 2548.383333333333
+tree_length: 5712957.656666666
+
+dirr: no_of_points_5100_sigma_5
+time: 2695.7366666666667
+tree_length: 6330463.446666666
+
+dirr: no_of_points_1600_sigma_0
+time: 604.7633333333333
+tree_length: 1994520.6466666667
+
+dirr: no_of_points_2600_sigma_0
+time: 976.8433333333334
+tree_length: 3230808.15
+
+dirr: no_of_points_4100_sigma_1
+time: 2404.4666666666667
+tree_length: 5090640.283333333
+
+dirr: no_of_points_100_sigma_7
+time: 40.29666666666667
+tree_length: 141323.35
+
+dirr: no_of_points_100_sigma_3
+time: 40.47666666666667
+tree_length: 141314.61
+
+dirr: no_of_points_3100_sigma_0
+time: 2100.8166666666666
+tree_length: 3851139.0233333334
+
+dirr: no_of_points_600_sigma_0
+time: 237.84
+tree_length: 755260.9966666667
+
+dirr: no_of_points_5600_sigma_3
+time: 2839.5533333333333
+tree_length: 6953566.753333333
+

@@ -1,0 +1,15 @@
+
+1) 2 codes have been developed by our team:- 
+MAIN_CODE.cpp and MAIN_CODE_2.cpp
+
+Observations of both are included in PPT.
+
+
+2) Data1 and Data2 are have input data. Output1 and Output2 have outputs. Ex:- no_of_points_100_sigma_3_13_Logs have 2 lines, one having the average time taken by algo and average length of tre, for all the 300 files present in no_of_points_100_sigma_3 folder.
+These can be found at:- 
+https://drive.google.com/file/d/1h1-Je1KFf3HmylNnR0MXYfKi-Xn17S6f/view?usp=sharing
+
+
+
+3) 'text_graph' file has steps to generate graph of Rectilinear Steiner tree, given input file.
+As an example, 'Rectilinear_steiner_tree_for_no_of_points_100_sigma_3.png' is the final Rectilinear Steiner Tree got for no_of_points_100_sigma_3. 

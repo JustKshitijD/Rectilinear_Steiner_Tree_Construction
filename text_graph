@@ -1,0 +1,6 @@
+To plot graph of Steiner Tree of an input file of points like no_of_points_100_sigma_3_0, do-
+
+1) put input in 'inn' file
+2) 'python3 straighten.py inn'
+3) Do- './a.out < input
+4) python3 Plot_2.py

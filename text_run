@@ -1,0 +1,10 @@
+
+Steps followed in generating data and its execution: 
+
+1) generate_data
+2) change.py :- add count
+3) chk.py - put into data1 and data2
+4) run.py 
+
+To run Plot_2.py, given 'input_file' like no_of_points_100_sigma_0, run as- 
+python3 Plot_2.py input_file
